@@ -1,0 +1,2 @@
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+quick 9300000 93000000 929
